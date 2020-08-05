@@ -1,0 +1,8 @@
+prefix=/home/hemingshan/opencv_ws/devel
+
+Name: opencv_py
+Description: Description of opencv_py
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

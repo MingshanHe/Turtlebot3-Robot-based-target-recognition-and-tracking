@@ -1,0 +1,8 @@
+prefix=/home/hemingshan/opencv_ws/install
+
+Name: opencv_examples
+Description: Description of opencv_examples
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hemingshan/opencv_ws/install
+
+Name: basic
+Description: Description of basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
