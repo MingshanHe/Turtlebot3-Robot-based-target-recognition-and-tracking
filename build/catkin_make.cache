@@ -1,2 +1,0 @@
-opencv_examples:turtlebot_teleop
--DCATKIN_DEVEL_PREFIX=/home/hemingshan/opencv_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hemingshan/opencv_ws/install -G Unix Makefiles

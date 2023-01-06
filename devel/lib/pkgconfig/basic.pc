@@ -1,8 +1,0 @@
-prefix=/home/hemingshan/opencv_ws/devel
-
-Name: basic
-Description: Description of basic
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
